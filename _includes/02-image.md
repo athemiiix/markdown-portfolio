@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Terry Bogard](https://www.mobituner.com/wp-content/uploads/2019/09/Terry-Bogard.jpg)
