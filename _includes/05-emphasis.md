@@ -1,0 +1,7 @@
+- __Bachelor of Commerce in Economics and Management Science and Master of Business Economics__, with _advanced knowledge of economic, finance and accounting theories_
+- __Creative problem solver__ utilizing __analytical__ and __decision-making__ skills to resolve complex issues, proven in the creation of labour market and program data repositories in Excel (Pivot Tables, vlookup)
+- __Proficient in data analysis software__ such as Excel, STATA, Eviews and SPSS, with the ability to self-learn software and develop related coding skills quickly, as demonstrated with __R__ and __Python_
+- __Planning, time management, organizational and multi-tasking__ skills leveraged in work related to __economic analysis, strategic policy, risk management and planning__
+- Demonstrated __leadership skills__ with experience in asserting business process improvements, developing staff, and taking on roles in social development initiatives on and off the job
+- Exceptional __English communication and teamwork__ skills with the ability to __convey information__ to colleagues and clients, to __build relationships with stakeholders__ and to __address conflicts with tact__;
+- __Advanced Beginner French communication skills__, with a bilingual certificate earned in 2008 with OSSD
