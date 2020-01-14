@@ -1,2 +1,2 @@
-https://github.com/athemiiix
-https://twitter.com/athemiiix
+[github profile](https://github.com/athemiiix)
+[twitter profile](https://twitter.com/athemiiix)
